@@ -1,0 +1,24 @@
+.bg-img {
+    /* The image used */
+    background-image: url("wood.jpg");
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+    /* Needed to position the navbar */
+    position: relative;
+  }
+
+  .containit{
+    position: absolute;
+    margin: 20px;
+    width: auto;
+  }
+
+  .classic-font{
+      font-size: 16px;
+      font-weight: 600;
+      font-family: sans-serif;
+  }
