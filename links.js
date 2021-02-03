@@ -29,7 +29,10 @@ window.onload = function () {
     }
     else if(document.URL.indexOf("#petridish") >= 0){ 
         window.location.replace('https://amzn.to/3rhR2iJ');
-    }   
+    } 
+     else if(document.URL.indexOf("#microscope") >= 0){ 
+        window.location.replace('https://amzn.to/36C2deg');
+    }  
 }
 
 
