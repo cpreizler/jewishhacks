@@ -42,6 +42,9 @@ window.onload = function () {
      else if(document.URL.indexOf("#shelfdivide") >= 0){ 
         window.location.replace('https://amzn.to/2NSFCUw');
     } 
+     else if(document.URL.indexOf("#bootrack") >= 0){ 
+        window.location.replace('https://amzn.to/3rde2Qq');
+    } 
 
 }
 
