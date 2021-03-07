@@ -48,7 +48,9 @@ window.onload = function () {
      else if(document.URL.indexOf("#undershelf") >= 0){ 
         window.location.replace('https://amzn.to/2OiO4Ms');
     } 
-
+     else if(document.URL.indexOf("#faceshave") >= 0){ 
+        window.location.replace('https://amzn.to/2Py0Iba');
+    } 
 }
 
 
