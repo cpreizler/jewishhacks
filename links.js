@@ -51,6 +51,12 @@ window.onload = function () {
      else if(document.URL.indexOf("#faceshave") >= 0){ 
         window.location.replace('https://amzn.to/2Py0Iba');
     } 
+     else if(document.URL.indexOf("#lazysusan") >= 0){ 
+        window.location.replace('https://amzn.to/38s28KS');
+    }
+     else if(document.URL.indexOf("#mbins") >= 0){ 
+        window.location.replace('https://amzn.to/3bwVe9q');
+    }
 }
 
 
