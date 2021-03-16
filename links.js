@@ -57,6 +57,9 @@ window.onload = function () {
      else if(document.URL.indexOf("#mbins") >= 0){ 
         window.location.replace('https://amzn.to/3bwVe9q');
     }
+     else if(document.URL.indexOf("#sidekick") >= 0){ 
+        window.location.replace('https://amzn.to/2Q3xKQF');
+    }
 }
 
 
