@@ -60,6 +60,9 @@ window.onload = function () {
      else if(document.URL.indexOf("#sidekick") >= 0){ 
         window.location.replace('https://amzn.to/2Q3xKQF');
     }
+     else if(document.URL.indexOf("#contactpaper") >= 0){ 
+        window.location.replace('https://amzn.to/2OVxBPd');
+    }
 }
 
 
