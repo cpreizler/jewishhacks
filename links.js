@@ -63,6 +63,9 @@ window.onload = function () {
      else if(document.URL.indexOf("#contactpaper") >= 0){ 
         window.location.replace('https://amzn.to/2OVxBPd');
     }
+     else if(document.URL.indexOf("#tierhanger") >= 0){ 
+        window.location.replace('https://amzn.to/3fUahw7');
+    }
 }
 
 
