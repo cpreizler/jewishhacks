@@ -24,6 +24,9 @@ window.onload = function () {
     else if(document.URL.indexOf("#towelbar") >= 0){ 
         window.location.replace('https://amzn.to/3rgBaNx');
     }
+    else if(document.URL.indexOf("#epoxy") >= 0){ 
+        window.location.replace('https://amzn.to/39ZuVan');
+    }
     else if(document.URL.indexOf("#uvsan") >= 0){ 
         window.location.replace('https://amzn.to/3oJK1Fu');
     }
