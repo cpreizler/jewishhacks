@@ -57,6 +57,9 @@ window.onload = function () {
      else if(document.URL.indexOf("#halo") >= 0){ 
         window.location.replace('https://amzn.to/3sm4UbQ');
     } 
+     else if(document.URL.indexOf("#deskbike") >= 0){ 
+        window.location.replace('https://amzn.to/2OZy0Af');
+    } 
      else if(document.URL.indexOf("#undershelf") >= 0){ 
         window.location.replace('https://amzn.to/2OiO4Ms');
     } 
