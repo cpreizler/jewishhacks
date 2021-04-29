@@ -30,6 +30,9 @@ window.onload = function () {
     else if(document.URL.indexOf("#uvsan") >= 0){ 
         window.location.replace('https://amzn.to/3oJK1Fu');
     }
+    else if(document.URL.indexOf("#wiresleeve") >= 0){ 
+        window.location.replace('https://amzn.to/3xy0t1s');
+    }
     else if(document.URL.indexOf("#foodslicer") >= 0){ 
         window.location.replace('https://amzn.to/3dVGLDU');
     } 
