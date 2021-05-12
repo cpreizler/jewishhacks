@@ -45,6 +45,9 @@ window.onload = function () {
      else if(document.URL.indexOf("#potrack") >= 0){ 
         window.location.replace('https://amzn.to/3mH5fEW');
     } 
+     else if(document.URL.indexOf("#button") >= 0){ 
+        window.location.replace('https://amzn.to/3o8OfrA');
+    } 
      else if(document.URL.indexOf("#clearcase") >= 0){ 
         window.location.replace('https://amzn.to/37cLOgu');
     } 
