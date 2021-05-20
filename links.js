@@ -54,6 +54,9 @@ window.onload = function () {
      else if(document.URL.indexOf("#bootstrap") >= 0){ 
         window.location.replace('https://amzn.to/3dxQQrW');
     } 
+        else if(document.URL.indexOf("#monitorstand") >= 0){ 
+        window.location.replace('https://amzn.to/3v7pBuf');
+    } 
      else if(document.URL.indexOf("#shelfdivide") >= 0){ 
         window.location.replace('https://amzn.to/2NSFCUw');
     } 
