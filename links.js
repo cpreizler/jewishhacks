@@ -36,6 +36,9 @@ window.onload = function () {
     else if(document.URL.indexOf("#uvsan") >= 0){ 
         window.location.replace('https://amzn.to/3oJK1Fu');
     }
+    else if(document.URL.indexOf("#molasses") >= 0){ 
+        window.location.replace('https://amzn.to/3yKMoOG');
+    }
     else if(document.URL.indexOf("#mosquito") >= 0){ 
         window.location.replace('https://amzn.to/3wl3e4K');
     }
