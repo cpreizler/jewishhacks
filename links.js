@@ -45,6 +45,9 @@ window.onload = function () {
     else if(document.URL.indexOf("#mosquito") >= 0){ 
         window.location.replace('https://amzn.to/3wl3e4K');
     }
+    else if(document.URL.indexOf("#buglight") >= 0){ 
+        window.location.replace('https://amzn.to/2TgRamI');
+    }
     else if(document.URL.indexOf("#wiresleeve") >= 0){ 
         window.location.replace('https://amzn.to/3xy0t1s');
     }
