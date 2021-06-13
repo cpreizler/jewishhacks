@@ -30,6 +30,9 @@ window.onload = function () {
     else if(document.URL.indexOf("#epoxy") >= 0){ 
         window.location.replace('https://amzn.to/39ZuVan');
     } 
+    else if(document.URL.indexOf("#icetray") >= 0){ 
+        window.location.replace('https://amzn.to/2SuXZkK');
+    } 
     else if(document.URL.indexOf("#hook") >= 0){ 
         window.location.replace('https://amzn.to/3fysMWr');
     }
