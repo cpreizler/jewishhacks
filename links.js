@@ -42,6 +42,11 @@ window.onload = function () {
     else if(document.URL.indexOf("#molasses") >= 0){ 
         window.location.replace('https://amzn.to/3yKMoOG');
     }
+
+else if(document.URL.indexOf("#toast") >= 0){ 
+        window.location.replace('https://amzn.to/3h0uYqE');
+    }
+
      else if(document.URL.indexOf("#charcoal") >= 0){ 
         window.location.replace('https://amzn.to/3vDIXaH');
     }
