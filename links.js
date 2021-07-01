@@ -32,7 +32,12 @@ window.onload = function () {
     } 
     else if(document.URL.indexOf("#icetray") >= 0){ 
         window.location.replace('https://amzn.to/2SuXZkK');
+    }
+
+else if(document.URL.indexOf("#garlic") >= 0){ 
+        window.location.replace('https://amzn.to/2UMbywQ');
     } 
+
     else if(document.URL.indexOf("#hook") >= 0){ 
         window.location.replace('https://amzn.to/3fysMWr');
     }
