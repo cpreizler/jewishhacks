@@ -24,6 +24,11 @@ window.onload = function () {
     else if(document.URL.indexOf("#towelbar") >= 0){ 
         window.location.replace('https://amzn.to/3rgBaNx');
     }
+
+else if(document.URL.indexOf("#cooler") >= 0){ 
+        window.location.replace('https://amzn.to/3x9WB6c');
+    }
+
     else if(document.URL.indexOf("#soap") >= 0){ 
         window.location.replace('https://amzn.to/3hUHskm');
     }
