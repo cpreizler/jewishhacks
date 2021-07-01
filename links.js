@@ -25,6 +25,10 @@ window.onload = function () {
         window.location.replace('https://amzn.to/3rgBaNx');
     }
 
+else if(document.URL.indexOf("#brow") >= 0){ 
+        window.location.replace('https://amzn.to/3qEoErP');
+    }
+
 else if(document.URL.indexOf("#cooler") >= 0){ 
         window.location.replace('https://amzn.to/3x9WB6c');
     }
