@@ -18,6 +18,7 @@ window.onload = function () {
     else if(document.URL.indexOf("#carfill") >= 0){ 
         document.getElementById("carfill").click();
     }
+
     else if(document.URL.indexOf("#cutboard") >= 0){ 
         document.getElementById("cutboard").click();
     }
@@ -38,6 +39,10 @@ else if(document.URL.indexOf("#cooler") >= 0){
 
     else if(document.URL.indexOf("#soap") >= 0){ 
         window.location.replace('https://amzn.to/3hUHskm');
+    }
+
+else if(document.URL.indexOf("#doppler") >= 0){ 
+        window.location.replace('https://amzn.to/3hCpFg2');
     }
 
 else if(document.URL.indexOf("#tent") >= 0){ 
