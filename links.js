@@ -33,6 +33,10 @@ else if(document.URL.indexOf("#brow") >= 0){
         window.location.replace('https://amzn.to/3qEoErP');
     }
 
+else if(document.URL.indexOf("#pool") >= 0){ 
+        window.location.replace('https://amzn.to/3i1L7vl');
+    }
+
 else if(document.URL.indexOf("#cooler") >= 0){ 
         window.location.replace('https://amzn.to/3x9WB6c');
     }
