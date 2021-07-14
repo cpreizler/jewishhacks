@@ -53,6 +53,10 @@ else if(document.URL.indexOf("#pool") >= 0){
         window.location.replace('https://amzn.to/3i1L7vl');
     }
 
+else if(document.URL.indexOf("#suede") >= 0){ 
+        window.location.replace('https://amzn.to/2TZJIxn');
+    }
+
 else if(document.URL.indexOf("#cooler") >= 0){ 
         window.location.replace('https://amzn.to/3x9WB6c');
     }
