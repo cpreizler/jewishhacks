@@ -37,6 +37,10 @@ else if(document.URL.indexOf("#spray") >= 0){
         window.location.replace('https://amzn.to/2UsNJdm');
     }
 
+else if(document.URL.indexOf("#dewrinkle") >= 0){ 
+        window.location.replace('https://amzn.to/2VwutvY');
+    }
+
 else if(document.URL.indexOf("#tint") >= 0){ 
         window.location.replace('https://amzn.to/3wATqmQ');
     }
