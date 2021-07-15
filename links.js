@@ -37,6 +37,10 @@ else if(document.URL.indexOf("#brow") >= 0){
         window.location.replace('https://amzn.to/3qEoErP');
     }
 
+else if(document.URL.indexOf("#curtain") >= 0){ 
+        window.location.replace('https://amzn.to/3i63r6k');
+    }
+
 else if(document.URL.indexOf("#spray") >= 0){ 
         window.location.replace('https://amzn.to/2UsNJdm');
     }
