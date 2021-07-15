@@ -33,6 +33,10 @@ else if(document.URL.indexOf("#containers") >= 0){
         window.location.replace('https://amzn.to/2VwhnPm');
     }
 
+else if(document.URL.indexOf("#primer") >= 0){ 
+        window.location.replace('https://amzn.to/3endovh');
+    }
+
 else if(document.URL.indexOf("#brow") >= 0){ 
         window.location.replace('https://amzn.to/3qEoErP');
     }
