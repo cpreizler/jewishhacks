@@ -41,6 +41,11 @@ else if(document.URL.indexOf("#brow") >= 0){
         window.location.replace('https://amzn.to/3qEoErP');
     }
 
+else if(document.URL.indexOf("#bags") >= 0){ 
+        window.location.replace('https://amzn.to/3kCKNG5');
+    }
+
+
 else if(document.URL.indexOf("#curtain") >= 0){ 
         window.location.replace('https://amzn.to/3i63r6k');
     }
