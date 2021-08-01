@@ -41,6 +41,10 @@ else if(document.URL.indexOf("#brow") >= 0){
         window.location.replace('https://amzn.to/3qEoErP');
     }
 
+else if(document.URL.indexOf("#honeycomb") >= 0){ 
+        window.location.replace('https://amzn.to/3j73VcR');
+    }
+
 else if(document.URL.indexOf("#bags") >= 0){ 
         window.location.replace('https://amzn.to/3kCKNG5');
     }
