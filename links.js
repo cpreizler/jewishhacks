@@ -89,6 +89,10 @@ else if(document.URL.indexOf("#cooler") >= 0){
         window.location.replace('https://amzn.to/3hUHskm');
     }
 
+else if(document.URL.indexOf("#carryon") >= 0){ 
+        window.location.replace('https://amzn.to/3fNlUo3');
+    }
+
 else if(document.URL.indexOf("#doppler") >= 0){ 
         window.location.replace('https://amzn.to/3hCpFg2');
     }
