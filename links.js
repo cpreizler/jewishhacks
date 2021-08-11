@@ -37,6 +37,10 @@ else if(document.URL.indexOf("#primer") >= 0){
         window.location.replace('https://amzn.to/3endovh');
     }
 
+else if(document.URL.indexOf("#case") >= 0){ 
+        window.location.replace('https://amzn.to/3xx7w9v');
+    }
+
 else if(document.URL.indexOf("#brow") >= 0){ 
         window.location.replace('https://amzn.to/3qEoErP');
     }
