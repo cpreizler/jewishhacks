@@ -38,6 +38,10 @@ else if(document.URL.indexOf("#primer") >= 0){
         window.location.replace('https://amzn.to/3endovh');
     }
 
+else if(document.URL.indexOf("#smart") >= 0){ 
+        window.location.replace('https://amzn.to/3xRSivM');
+    }
+
 else if(document.URL.indexOf("#ebt") >= 0){ 
         window.location.replace('https://amzn.to/3yHpasj');
     }
