@@ -38,6 +38,10 @@ else if(document.URL.indexOf("#wig") >= 0){
         window.location.replace('https://amzn.to/2WF6MT4');
     }
 
+else if(document.URL.indexOf("#brew") >= 0){ 
+        window.location.replace('https://amzn.to/2Y5TMpY');
+    }
+
 else if(document.URL.indexOf("#containers") >= 0){ 
         window.location.replace('https://amzn.to/2VwhnPm');
     }
