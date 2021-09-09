@@ -78,6 +78,10 @@ else if(document.URL.indexOf("#bags") >= 0){
         window.location.replace('https://amzn.to/3kCKNG5');
     }
 
+else if(document.URL.indexOf("#glasstray") >= 0){ 
+        window.location.replace('https://amzn.to/3E1UfKz');
+    }
+
 else if(document.URL.indexOf("#lint") >= 0){ 
         window.location.replace('https://amzn.to/2VtqLUt');
     }
