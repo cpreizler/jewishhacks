@@ -90,6 +90,10 @@ else if(document.URL.indexOf("#lint") >= 0){
         window.location.replace('https://amzn.to/2VtqLUt');
     }
 
+else if(document.URL.indexOf("#crocker") >= 0){ 
+        window.location.replace('https://amzn.to/3kezrYi');
+    }
+
 else if(document.URL.indexOf("#curtain") >= 0){ 
         window.location.replace('https://amzn.to/3i63r6k');
     }
