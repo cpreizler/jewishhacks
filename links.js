@@ -54,6 +54,10 @@ else if(document.URL.indexOf("#containers") >= 0){
         window.location.replace('https://amzn.to/2VwhnPm');
     }
 
+else if(document.URL.indexOf("#round") >= 0){ 
+        window.location.replace('https://amzn.to/3ElBguB');
+    }
+
 else if(document.URL.indexOf("#primer") >= 0){ 
         window.location.replace('https://amzn.to/3endovh');
     }
