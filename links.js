@@ -38,6 +38,10 @@ else if(document.URL.indexOf("#crochet") >= 0){
         window.location.replace('https://amzn.to/3yVSsCM');
     }
 
+else if(document.URL.indexOf("#patch") >= 0){ 
+        window.location.replace('https://amzn.to/3mErtI7');
+    }
+
 else if(document.URL.indexOf("#spoon") >= 0){ 
         window.location.replace('https://amzn.to/2XeS2u0');
     }
