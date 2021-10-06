@@ -50,6 +50,10 @@ else if(document.URL.indexOf("#spoon") >= 0){
         window.location.replace('https://amzn.to/2XeS2u0');
     }
 
+else if(document.URL.indexOf("#fullbib") >= 0){ 
+        window.location.replace('https://amzn.to/3uMkujQ');
+    }
+
 else if(document.URL.indexOf("#wig") >= 0){ 
         window.location.replace('https://amzn.to/2WF6MT4');
     }
