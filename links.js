@@ -42,6 +42,10 @@ else if(document.URL.indexOf("#patch") >= 0){
         window.location.replace('https://amzn.to/3mErtI7');
     }
 
+else if(document.URL.indexOf("#bib") >= 0){ 
+        window.location.replace('https://amzn.to/3DgrOr4');
+    }
+
 else if(document.URL.indexOf("#spoon") >= 0){ 
         window.location.replace('https://amzn.to/2XeS2u0');
     }
