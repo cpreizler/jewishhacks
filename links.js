@@ -34,6 +34,10 @@ else if(document.URL.indexOf("#bin") >= 0){
         window.location.replace('https://amzn.to/36eUWQU');
     }
 
+else if(document.URL.indexOf("#egg") >= 0){ 
+        window.location.replace('https://amzn.to/3BCC1NS');
+    }
+
 else if(document.URL.indexOf("#crochet") >= 0){ 
         window.location.replace('https://amzn.to/3yVSsCM');
     }
