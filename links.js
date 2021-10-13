@@ -42,6 +42,11 @@ else if(document.URL.indexOf("#crochet") >= 0){
         window.location.replace('https://amzn.to/3yVSsCM');
     }
 
+
+else if(document.URL.indexOf("#squeak") >= 0){ 
+        window.location.replace('https://amzn.to/3FF1dFX');
+    }
+
 else if(document.URL.indexOf("#patch") >= 0){ 
         window.location.replace('https://amzn.to/3mErtI7');
     }
