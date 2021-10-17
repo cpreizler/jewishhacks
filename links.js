@@ -55,6 +55,10 @@ else if(document.URL.indexOf("#bib") >= 0){
         window.location.replace('https://amzn.to/3DgrOr4');
     }
 
+else if(document.URL.indexOf("#pinholder") >= 0){ 
+        window.location.replace('https://amzn.to/3lK4QTc');
+    }
+
 else if(document.URL.indexOf("#spoon") >= 0){ 
         window.location.replace('https://amzn.to/2XeS2u0');
     }
