@@ -30,7 +30,11 @@ else if(document.URL.indexOf("#bin") >= 0){
         window.location.replace('https://amzn.to/3sExKWt');
     }
 
-  else if(document.URL.indexOf("#pillow") >= 0){ 
+else if(document.URL.indexOf("#fog") >= 0){ 
+        window.location.replace('https://amzn.to/3q94Ajg');
+    }
+
+ else if(document.URL.indexOf("#pillow") >= 0){ 
         window.location.replace('https://amzn.to/36eUWQU');
     }
 
