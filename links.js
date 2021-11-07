@@ -46,6 +46,10 @@ else if(document.URL.indexOf("#crochet") >= 0){
         window.location.replace('https://amzn.to/3yVSsCM');
     }
 
+else if(document.URL.indexOf("#cartoy") >= 0){ 
+        window.location.replace('https://amzn.to/3bP0WTi');
+    }
+
 
 else if(document.URL.indexOf("#squeak") >= 0){ 
         window.location.replace('https://amzn.to/3FF1dFX');
