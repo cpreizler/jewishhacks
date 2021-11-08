@@ -34,6 +34,18 @@ else if(document.URL.indexOf("#fog") >= 0){
         window.location.replace('https://amzn.to/3q94Ajg');
     }
 
+else if(document.URL.indexOf("#blanket") >= 0){ 
+        window.location.replace('https://amzn.to/3bXplG4');
+    }
+
+else if(document.URL.indexOf("#bedjet") >= 0){ 
+        window.location.replace('https://amzn.to/3H67on9');
+    }
+
+else if(document.URL.indexOf("#air") >= 0){ 
+        window.location.replace('https://amzn.to/308pWm4');
+    }
+
  else if(document.URL.indexOf("#pillow") >= 0){ 
         window.location.replace('https://amzn.to/36eUWQU');
     }
