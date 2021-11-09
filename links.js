@@ -38,6 +38,11 @@ else if(document.URL.indexOf("#blanket") >= 0){
         window.location.replace('https://amzn.to/3bXplG4');
     }
 
+
+else if(document.URL.indexOf("#fondue") >= 0){ 
+        window.location.replace('https://amzn.to/3bXplG4');
+    }
+
 else if(document.URL.indexOf("#bedjet") >= 0){ 
         window.location.replace('https://amzn.to/3H67on9');
     }
