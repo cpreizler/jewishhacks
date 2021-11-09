@@ -42,6 +42,10 @@ else if(document.URL.indexOf("#bedjet") >= 0){
         window.location.replace('https://amzn.to/3H67on9');
     }
 
+else if(document.URL.indexOf("#smores") >= 0){ 
+        window.location.replace('https://amzn.to/3DdOFE9');
+    }
+
 else if(document.URL.indexOf("#air") >= 0){ 
         window.location.replace('https://amzn.to/308pWm4');
     }
