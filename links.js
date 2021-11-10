@@ -38,6 +38,11 @@ else if(document.URL.indexOf("#fog") >= 0){
         window.location.replace('https://amzn.to/3q94Ajg');
     }
 
+
+else if(document.URL.indexOf("#bobble") >= 0){ 
+        window.location.replace('https://amzn.to/3HidQI2');
+    }
+
 else if(document.URL.indexOf("#blanket") >= 0){ 
         window.location.replace('https://amzn.to/3bXplG4');
     }
