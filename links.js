@@ -46,6 +46,11 @@ else if(document.URL.indexOf("#fondue") >= 0){
         window.location.replace('https://amzn.to/3H2mB8N');
     }
 
+
+else if(document.URL.indexOf("#touchgloves") >= 0){ 
+        window.location.replace('https://amzn.to/3EWfdda');
+    }
+
 else if(document.URL.indexOf("#bedjet") >= 0){ 
         window.location.replace('https://amzn.to/3H67on9');
     }
