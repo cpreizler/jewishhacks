@@ -51,6 +51,10 @@ else if(document.URL.indexOf("#gloves") >= 0){
         window.location.replace('https://amzn.to/31Oaz2Q');
     }
 
+else if(document.URL.indexOf("#popit") >= 0){ 
+        window.location.replace('https://amzn.to/30pQmQp');
+    }
+
 else if(document.URL.indexOf("#fondue") >= 0){ 
         window.location.replace('https://amzn.to/3H2mB8N');
     }
