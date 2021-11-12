@@ -38,6 +38,9 @@ else if(document.URL.indexOf("#fog") >= 0){
         window.location.replace('https://amzn.to/3q94Ajg');
     }
 
+else if(document.URL.indexOf("#pajamaka") >= 0){ 
+        window.location.replace('https://amzn.to/31K9vNi');
+    }
 
 else if(document.URL.indexOf("#bobble") >= 0){ 
         window.location.replace('https://amzn.to/3HidQI2');
