@@ -50,6 +50,10 @@ else if(document.URL.indexOf("#blanket") >= 0){
         window.location.replace('https://amzn.to/3bXplG4');
     }
 
+else if(document.URL.indexOf("#roll") >= 0){ 
+        window.location.replace('https://amzn.to/3ogegWy');
+    }
+
 else if(document.URL.indexOf("#gloves") >= 0){ 
         window.location.replace('https://amzn.to/31Oaz2Q');
     }
