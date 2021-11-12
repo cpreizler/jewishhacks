@@ -62,6 +62,10 @@ else if(document.URL.indexOf("#popit") >= 0){
         window.location.replace('https://amzn.to/30pQmQp');
     }
 
+else if(document.URL.indexOf("#shalom") >= 0){ 
+        window.location.replace('https://amzn.to/3DbLX1A');
+    }
+
 else if(document.URL.indexOf("#fondue") >= 0){ 
         window.location.replace('https://amzn.to/3H2mB8N');
     }
