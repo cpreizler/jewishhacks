@@ -50,6 +50,10 @@ else if(document.URL.indexOf("#wood") >= 0){
         window.location.replace('https://amzn.to/3qzhaZe');
     }
 
+else if(document.URL.indexOf("#puzzle") >= 0){ 
+        window.location.replace('https://amzn.to/30qMPkQ');
+    }
+
 else if(document.URL.indexOf("#phone") >= 0){ 
         window.location.replace('https://amzn.to/3nfBfSx');
     }
