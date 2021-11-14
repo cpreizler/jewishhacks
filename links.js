@@ -42,6 +42,10 @@ else if(document.URL.indexOf("#pajamaka") >= 0){
         window.location.replace('https://amzn.to/31K9vNi');
     }
 
+else if(document.URL.indexOf("#elmo") >= 0){ 
+        window.location.replace('https://amzn.to/3c8EmoD');
+    }
+
 else if(document.URL.indexOf("#wood") >= 0){ 
         window.location.replace('https://amzn.to/3qzhaZe');
     }
