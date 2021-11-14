@@ -43,7 +43,7 @@ else if(document.URL.indexOf("#pajamaka") >= 0){
     }
 
 else if(document.URL.indexOf("#wood") >= 0){ 
-        window.location.replace('https://amzn.to/3DehoZl');
+        window.location.replace('https://amzn.to/3qzhaZe');
     }
 
 else if(document.URL.indexOf("#phone") >= 0){ 
