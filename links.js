@@ -30,6 +30,10 @@ else if(document.URL.indexOf("#bin") >= 0){
         window.location.replace('https://amzn.to/3sExKWt');
     }
 
+else if(document.URL.indexOf("#burrito") >= 0){ 
+        window.location.replace('https://amzn.to/3Fjw3Ts');
+    }
+
 else if(document.URL.indexOf("#fuji") >= 0){ 
         window.location.replace('https://amzn.to/3FfFGTd');
     }
