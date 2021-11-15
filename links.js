@@ -31,7 +31,7 @@ else if(document.URL.indexOf("#bin") >= 0){
     }
 
 else if(document.URL.indexOf("#voice") >= 0){ 
-        window.location.replace('https://amzn.to/3kBYqEH');
+        window.location.replace('https://amzn.to/3otUXcj');
     }
 
 else if(document.URL.indexOf("#old") >= 0){ 
