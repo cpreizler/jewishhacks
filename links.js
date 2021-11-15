@@ -38,6 +38,9 @@ else if(document.URL.indexOf("#old") >= 0){
         window.location.replace('https://amzn.to/3osly9K');
     }
 
+else if(document.URL.indexOf("#pool") >= 0){ 
+        window.location.replace('https://amzn.to/3wOhsg8');
+    }
 
 else if(document.URL.indexOf("#burrito") >= 0){ 
         window.location.replace('https://amzn.to/3Fjw3Ts');
