@@ -34,6 +34,10 @@ else if(document.URL.indexOf("#voice") >= 0){
         window.location.replace('https://amzn.to/3otUXcj');
     }
 
+else if(document.URL.indexOf("#gel") >= 0){ 
+        window.location.replace('https://amzn.to/3cdyhY3');
+    }
+
 else if(document.URL.indexOf("#old") >= 0){ 
         window.location.replace('https://amzn.to/3osly9K');
     }
