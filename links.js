@@ -30,6 +30,10 @@ else if(document.URL.indexOf("#bin") >= 0){
         window.location.replace('https://amzn.to/3sExKWt');
     }
 
+else if(document.URL.indexOf("#yonana") >= 0){ 
+        window.location.replace('https://amzn.to/3Fm499x');
+    }
+
 else if(document.URL.indexOf("#voice") >= 0){ 
         window.location.replace('https://amzn.to/3otUXcj');
     }
