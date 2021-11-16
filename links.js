@@ -50,6 +50,10 @@ else if(document.URL.indexOf("#burrito") >= 0){
         window.location.replace('https://amzn.to/3Fjw3Ts');
     }
 
+else if(document.URL.indexOf("#bar") >= 0){ 
+        window.location.replace('https://www.amazon.com/gp/product/B081DZ2LVF/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B081DZ2LVF&linkCode=as2&tag=lifehack06e7-20&linkId=8cbc83900a53843d159fe85771202eae');
+    }
+
 else if(document.URL.indexOf("#fuji") >= 0){ 
         window.location.replace('https://amzn.to/3FfFGTd');
     }
