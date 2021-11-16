@@ -38,6 +38,10 @@ else if(document.URL.indexOf("#gel") >= 0){
         window.location.replace('https://amzn.to/3cdyhY3');
     }
 
+else if(document.URL.indexOf("#human") >= 0){ 
+        window.location.replace('https://www.amazon.com/gp/product/B07YCXG4WB/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07YCXG4WB&linkCode=as2&tag=lifehack06e7-20&linkId=53720205314b3fbd76d0dd1c02815078');
+    }
+
 else if(document.URL.indexOf("#old") >= 0){ 
         window.location.replace('https://amzn.to/3osly9K');
     }
