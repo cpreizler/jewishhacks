@@ -50,8 +50,8 @@ else if(document.URL.indexOf("#voice") >= 0){
         window.location.replace('https://amzn.to/3oTjKXN');
     }
     
-    else if(document.URL.indexOf("#voice") >= 0){ 
-        window.location.replace('https://amzn.to/3otUXcj');
+    else if(document.URL.indexOf("#mug") >= 0){ 
+        window.location.replace('https://amzn.to/3kKmIMO');
     }
     
     else if(document.URL.indexOf("#voice") >= 0){ 
