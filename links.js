@@ -46,8 +46,8 @@ else if(document.URL.indexOf("#voice") >= 0){
         window.location.replace('https://amzn.to/3Fp3kgo');
     }    
     
-    else if(document.URL.indexOf("#voice") >= 0){ 
-        window.location.replace('https://amzn.to/3otUXcj');
+    else if(document.URL.indexOf("#nes") >= 0){ 
+        window.location.replace('https://amzn.to/3oTjKXN');
     }
     
     else if(document.URL.indexOf("#voice") >= 0){ 
