@@ -53,6 +53,10 @@ else if(document.URL.indexOf("#old") >= 0){
 else if(document.URL.indexOf("#pool") >= 0){ 
         window.location.replace('https://amzn.to/3wOhsg8');
     }
+    
+    else if(document.URL.indexOf("#spice") >= 0){ 
+        window.location.replace('https://amzn.to/3cjKhaB');
+    }
 
 else if(document.URL.indexOf("#burrito") >= 0){ 
         window.location.replace('https://amzn.to/3Fjw3Ts');
