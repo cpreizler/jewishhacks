@@ -37,6 +37,26 @@ else if(document.URL.indexOf("#yonana") >= 0){
 else if(document.URL.indexOf("#voice") >= 0){ 
         window.location.replace('https://amzn.to/3otUXcj');
     }
+    
+    else if(document.URL.indexOf("#strainer") >= 0){ 
+        window.location.replace('https://amzn.to/3qO79HI');
+    }
+    
+    else if(document.URL.indexOf("#mat") >= 0){ 
+        window.location.replace('https://amzn.to/3Fp3kgo');
+    }    
+    
+    else if(document.URL.indexOf("#voice") >= 0){ 
+        window.location.replace('https://amzn.to/3otUXcj');
+    }
+    
+    else if(document.URL.indexOf("#voice") >= 0){ 
+        window.location.replace('https://amzn.to/3otUXcj');
+    }
+    
+    else if(document.URL.indexOf("#voice") >= 0){ 
+        window.location.replace('https://amzn.to/3otUXcj');
+    }
 
 else if(document.URL.indexOf("#gel") >= 0){ 
         window.location.replace('https://amzn.to/3cdyhY3');
