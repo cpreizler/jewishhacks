@@ -39,6 +39,10 @@ else if(document.URL.indexOf("#voice") >= 0){
     }
     
 
+else if(document.URL.indexOf("#perf") >= 0){ 
+        window.location.replace('https://amzn.to/3oHEd1r');
+    }
+
 else if(document.URL.indexOf("#kni") >= 0){ 
         window.location.replace('https://amzn.to/3kNcTOk');
     }
