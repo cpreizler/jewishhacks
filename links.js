@@ -38,6 +38,11 @@ else if(document.URL.indexOf("#voice") >= 0){
         window.location.replace('https://amzn.to/3otUXcj');
     }
     
+
+else if(document.URL.indexOf("#kni") >= 0){ 
+        window.location.replace('https://amzn.to/3kNcTOk');
+    }
+
     else if(document.URL.indexOf("#strainer") >= 0){ 
         window.location.replace('https://amzn.to/3qO79HI');
     }
