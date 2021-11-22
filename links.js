@@ -34,6 +34,10 @@ else if(document.URL.indexOf("#yonana") >= 0){
         window.location.replace('https://amzn.to/3Fm499x');
     }
 
+else if(document.URL.indexOf("#antifogg") >= 0){ 
+        window.location.replace('https://amzn.to/3xcI4Hw');
+    }
+
 else if(document.URL.indexOf("#voice") >= 0){ 
         window.location.replace('https://amzn.to/3otUXcj');
     }
