@@ -30,6 +30,9 @@ else if(document.URL.indexOf("#bin") >= 0){
         window.location.replace('https://amzn.to/3sExKWt');
     }
 
+else if(document.URL.indexOf("#lego") >= 0){ 
+        window.location.replace('https://amzn.to/3xNBjfD');
+    }
 
 else if(document.URL.indexOf("#MiniSpeak") >= 0){ 
         window.location.replace('https://amzn.to/3o7cZ5q');
