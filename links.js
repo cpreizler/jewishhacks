@@ -34,6 +34,10 @@ else if(document.URL.indexOf("#lego") >= 0){
         window.location.replace('https://amzn.to/3xNBjfD');
     }
 
+else if(document.URL.indexOf("#defuzz") >= 0){ 
+        window.location.replace('https://amzn.to/3ov5o0I');
+    }
+
 else if(document.URL.indexOf("#MiniSpeak") >= 0){ 
         window.location.replace('https://amzn.to/3o7cZ5q');
     }
