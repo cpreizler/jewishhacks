@@ -30,6 +30,11 @@ else if(document.URL.indexOf("#bin") >= 0){
         window.location.replace('https://amzn.to/3sExKWt');
     }
 
+
+else if(document.URL.indexOf("#glassholder") >= 0){ 
+        window.location.replace('https://amzn.to/3oAjiPe');
+    }
+
 else if(document.URL.indexOf("#lego") >= 0){ 
         window.location.replace('https://amzn.to/3xNBjfD');
     }
