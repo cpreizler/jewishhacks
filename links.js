@@ -39,6 +39,10 @@ else if(document.URL.indexOf("#lego") >= 0){
         window.location.replace('https://amzn.to/3xNBjfD');
     }
 
+else if(document.URL.indexOf("#paintpen") >= 0){ 
+        window.location.replace('https://amzn.to/3EJ2VFy');
+    }
+
 else if(document.URL.indexOf("#defuzz") >= 0){ 
         window.location.replace('https://amzn.to/3ov5o0I');
     }
