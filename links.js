@@ -47,6 +47,11 @@ else if(document.URL.indexOf("#drain") >= 0){
         window.location.replace('https://amzn.to/30xt2QP');
     }
 
+
+else if(document.URL.indexOf("#vent") >= 0){ 
+        window.location.replace('https://amzn.to/32MPFS0');
+    }
+
 else if(document.URL.indexOf("#paintpen") >= 0){ 
         window.location.replace('https://amzn.to/3EJ2VFy');
     }
