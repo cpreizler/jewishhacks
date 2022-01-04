@@ -43,6 +43,10 @@ else if(document.URL.indexOf("#tissue") >= 0){
         window.location.replace('https://amzn.to/3ePEivw');
     }
 
+else if(document.URL.indexOf("#slimtissue") >= 0){ 
+        window.location.replace('https://amzn.to/3sWxDru');
+    }
+
 else if(document.URL.indexOf("#silicon") >= 0){ 
         window.location.replace('https://amzn.to/3sk9CdD');
     }
