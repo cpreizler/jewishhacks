@@ -39,6 +39,10 @@ else if(document.URL.indexOf("#lego") >= 0){
         window.location.replace('https://amzn.to/3xNBjfD');
     }
 
+else if(document.URL.indexOf("#tissue") >= 0){ 
+        window.location.replace('https://amzn.to/3ePEivw');
+    }
+
 else if(document.URL.indexOf("#silicon") >= 0){ 
         window.location.replace('https://amzn.to/3sk9CdD');
     }
