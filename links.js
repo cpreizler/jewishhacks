@@ -30,6 +30,9 @@ else if(document.URL.indexOf("#bin") >= 0){
         window.location.replace('https://amzn.to/3sExKWt');
     }
 
+else if(document.URL.indexOf("#kasa") >= 0){ 
+        window.location.replace('https://amzn.to/3G0VjyM');
+    }
 
 else if(document.URL.indexOf("#glassholder") >= 0){ 
         window.location.replace('https://amzn.to/3oAjiPe');
