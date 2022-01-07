@@ -34,6 +34,10 @@ else if(document.URL.indexOf("#kasa") >= 0){
         window.location.replace('https://amzn.to/3G0VjyM');
     }
 
+else if(document.URL.indexOf("#nailbrush") >= 0){ 
+        window.location.replace('https://amzn.to/32PCnF2');
+    }
+
 else if(document.URL.indexOf("#glassholder") >= 0){ 
         window.location.replace('https://amzn.to/3oAjiPe');
     }
