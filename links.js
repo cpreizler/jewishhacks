@@ -35,6 +35,11 @@ else if(document.URL.indexOf("#laundry") >= 0){
         window.location.replace('https://amzn.to/3GkQXmp');
     }
 
+
+else if(document.URL.indexOf("#label") >= 0){ 
+        window.location.replace('https://amzn.to/3rhqZKi');
+    }
+
 else if(document.URL.indexOf("#kasa") >= 0){ 
         window.location.replace('https://amzn.to/3G0VjyM');
     }
