@@ -169,6 +169,11 @@ else if(document.URL.indexOf("#pool") >= 0){
         window.location.replace('https://amzn.to/3cjKhaB');
     }
 
+
+else if(document.URL.indexOf("#towelthing") >= 0){ 
+        window.location.replace('https://amzn.to/3KesVvy');
+    }
+
 else if(document.URL.indexOf("#burrito") >= 0){ 
         window.location.replace('https://amzn.to/3Fjw3Ts');
     }
