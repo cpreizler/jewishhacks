@@ -30,6 +30,10 @@ else if(document.URL.indexOf("#bin") >= 0){
         window.location.replace('https://amzn.to/3sExKWt');
     }
 
+else if(document.URL.indexOf("#shower") >= 0){ 
+        window.location.replace('https://amzn.to/3qK6rLp');
+    }
+
 else if(document.URL.indexOf("#slide") >= 0){ 
         window.location.replace('https://amzn.to/3FtlfBY');
     }
