@@ -83,6 +83,10 @@ else if(document.URL.indexOf("#silicon") >= 0){
         window.location.replace('https://amzn.to/3sk9CdD');
     }
 
+else if(document.URL.indexOf("#bibs") >= 0){ 
+        window.location.replace('https://amzn.to/3HuU8Zm');
+    }
+
 else if(document.URL.indexOf("#drain") >= 0){ 
         window.location.replace('https://amzn.to/30xt2QP');
     }
