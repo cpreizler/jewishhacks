@@ -51,6 +51,10 @@ else if(document.URL.indexOf("#label") >= 0){
         window.location.replace('https://amzn.to/3rhqZKi');
     }
 
+else if(document.URL.indexOf("#clip") >= 0){ 
+        window.location.replace('https://amzn.to/3Ht2Ozb');
+    }
+
 else if(document.URL.indexOf("#kasa") >= 0){ 
         window.location.replace('https://amzn.to/3G0VjyM');
     }
