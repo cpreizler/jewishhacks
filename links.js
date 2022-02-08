@@ -34,6 +34,24 @@ else if(document.URL.indexOf("#shower") >= 0){
         window.location.replace('https://amzn.to/3qK6rLp');
     }
 
+else if(document.URL.indexOf("#Cookieshirt") >= 0){ 
+        window.location.replace('https://amzn.to/3HzcEPX');
+    }
+
+else if(document.URL.indexOf("#Milkshirt") >= 0){ 
+        window.location.replace('https://amzn.to/3HAmhy5');
+    }
+
+else if(document.URL.indexOf("#Cowhat") >= 0){ 
+        window.location.replace('https://amzn.to/35Yw8zR');
+    }
+
+
+else if(document.URL.indexOf("#Cookiehat") >= 0){ 
+        window.location.replace('https://amzn.to/3HCjxQy');
+    }
+
+
 else if(document.URL.indexOf("#mop") >= 0){ 
         window.location.replace('https://amzn.to/3GBlcov');
     }
