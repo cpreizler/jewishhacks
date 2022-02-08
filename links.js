@@ -56,6 +56,10 @@ else if(document.URL.indexOf("#mop") >= 0){
         window.location.replace('https://amzn.to/3GBlcov');
     }
 
+else if(document.URL.indexOf("#Fullbodcookie") >= 0){ 
+        window.location.replace('https://amzn.to/3gx5hg5');
+    }
+
 else if(document.URL.indexOf("#burswad") >= 0){ 
         window.location.replace('https://amzn.to/3B4jHOc');
     }
