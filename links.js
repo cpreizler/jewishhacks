@@ -56,6 +56,9 @@ else if(document.URL.indexOf("#mop") >= 0){
         window.location.replace('https://amzn.to/3GBlcov');
     }
 
+else if(document.URL.indexOf("#glassjars") >= 0){ 
+        window.location.replace('https://amzn.to/3stMGXS');
+    }
 
 else if(document.URL.indexOf("#jars") >= 0){ 
         window.location.replace('https://amzn.to/3rybLSn');
