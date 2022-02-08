@@ -42,6 +42,10 @@ else if(document.URL.indexOf("#box") >= 0){
         window.location.replace('https://amzn.to/34dB8Qx');
     }
 
+else if(document.URL.indexOf("#hangerholder") >= 0){ 
+        window.location.replace('https://amzn.to/3LkmFTJ');
+    }
+
 else if(document.URL.indexOf("#makeuporg") >= 0){ 
         window.location.replace('https://amzn.to/3IohfVu');
     }
