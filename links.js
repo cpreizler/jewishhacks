@@ -34,6 +34,10 @@ else if(document.URL.indexOf("#shower") >= 0){
         window.location.replace('https://amzn.to/3qK6rLp');
     }
 
+else if(document.URL.indexOf("#mop") >= 0){ 
+        window.location.replace('https://amzn.to/3GBlcov');
+    }
+
 else if(document.URL.indexOf("#burswad") >= 0){ 
         window.location.replace('https://amzn.to/3B4jHOc');
     }
