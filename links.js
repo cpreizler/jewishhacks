@@ -30,6 +30,11 @@ else if(document.URL.indexOf("#bin") >= 0){
         window.location.replace('https://amzn.to/3sExKWt');
     }
 
+else if(document.URL.indexOf("#footprint") >= 0){ 
+        window.location.replace('https://amzn.to/3oIjU4D');
+    }
+
+
 else if(document.URL.indexOf("#shower") >= 0){ 
         window.location.replace('https://amzn.to/3qK6rLp');
     }
