@@ -64,6 +64,29 @@ else if(document.URL.indexOf("#jars") >= 0){
         window.location.replace('https://amzn.to/3rybLSn');
     }
 
+
+else if(document.URL.indexOf("#flowerneck") >= 0){ 
+        window.location.replace('https://amzn.to/3GHwFTf');
+    }
+
+
+else if(document.URL.indexOf("#strawskirt") >= 0){ 
+        window.location.replace('https://amzn.to/34wUPDb');
+    }
+
+
+else if(document.URL.indexOf("#Hawainhat") >= 0){ 
+        window.location.replace('https://amzn.to/3HQ3KOq');
+    }
+
+else if(document.URL.indexOf("#Hawainshirt") >= 0){ 
+        window.location.replace('https://amzn.to/3rJTAcv');
+    }
+
+else if(document.URL.indexOf("#martini") >= 0){ 
+        window.location.replace('https://amzn.to/3HO13Nn');
+    }
+
 else if(document.URL.indexOf("#Fullbodcookie") >= 0){ 
         window.location.replace('https://amzn.to/3gx5hg5');
     }
