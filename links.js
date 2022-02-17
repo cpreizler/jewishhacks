@@ -34,6 +34,9 @@ else if(document.URL.indexOf("#footprint") >= 0){
         window.location.replace('https://amzn.to/3oIjU4D');
     }
 
+else if(document.URL.indexOf("#liner") >= 0){ 
+        window.location.replace('https://amzn.to/3s6i2VP');
+    }
 
 else if(document.URL.indexOf("#shower") >= 0){ 
         window.location.replace('https://amzn.to/3qK6rLp');
