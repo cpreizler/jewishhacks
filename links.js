@@ -54,6 +54,9 @@ else if(document.URL.indexOf("#Cowhat") >= 0){
         window.location.replace('https://amzn.to/35Yw8zR');
     }
 
+else if(document.URL.indexOf("#rug") >= 0){ 
+        window.location.replace('https://amzn.to/3p6woDE');
+    }
 
 else if(document.URL.indexOf("#Cookiehat") >= 0){ 
         window.location.replace('https://amzn.to/3HCjxQy');
