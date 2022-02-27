@@ -30,6 +30,26 @@ else if(document.URL.indexOf("#bin") >= 0){
         window.location.replace('https://amzn.to/3sExKWt');
     }
 
+else if(document.URL.indexOf("#Sharkband") >= 0){ 
+        window.location.replace('https://amzn.to/3plj0LX');
+    }
+
+else if(document.URL.indexOf("#Sharkmask") >= 0){ 
+        window.location.replace('https://amzn.to/3IqDw5l');
+    }
+
+else if(document.URL.indexOf("#Daddyshark") >= 0){ 
+        window.location.replace('https://amzn.to/3tbIZ9L');
+    }
+
+else if(document.URL.indexOf("#Mommyshark") >= 0){ 
+        window.location.replace('https://amzn.to/3IlUP7z');
+    }
+
+else if(document.URL.indexOf("#Babyshark") >= 0){ 
+        window.location.replace('https://amzn.to/3C4mUhl');
+    }
+
 else if(document.URL.indexOf("#pizzabox") >= 0){ 
         window.location.replace('https://amzn.to/3sqbdOY');
     }
