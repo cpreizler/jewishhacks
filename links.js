@@ -30,6 +30,10 @@ else if(document.URL.indexOf("#bin") >= 0){
         window.location.replace('https://amzn.to/3sExKWt');
     }
 
+else if(document.URL.indexOf("#walker") >= 0){ 
+        window.location.replace('https://amzn.to/3M1Q0lV');
+    }
+
 else if(document.URL.indexOf("#Sharkband") >= 0){ 
         window.location.replace('https://amzn.to/3plj0LX');
     }
