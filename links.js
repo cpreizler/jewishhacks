@@ -30,6 +30,14 @@ else if(document.URL.indexOf("#bin") >= 0){
         window.location.replace('https://amzn.to/3sExKWt');
     }
 
+else if(document.URL.indexOf("#pizzabox") >= 0){ 
+        window.location.replace('https://amzn.to/3sqbdOY');
+    }
+
+else if(document.URL.indexOf("#pizzatop") >= 0){ 
+        window.location.replace('https://amzn.to/36ALH0M');
+    }
+
 else if(document.URL.indexOf("#footprint") >= 0){ 
         window.location.replace('https://amzn.to/3oIjU4D');
     }
