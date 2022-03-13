@@ -86,6 +86,11 @@ else if(document.URL.indexOf("#Cowhat") >= 0){
         window.location.replace('https://amzn.to/35Yw8zR');
     }
 
+
+else if(document.URL.indexOf("#bathvisor") >= 0){ 
+        window.location.replace('https://amzn.to/3MNTcC4');
+    }
+
 else if(document.URL.indexOf("#rug") >= 0){ 
         window.location.replace('https://amzn.to/3p6woDE');
     }
