@@ -34,6 +34,10 @@ else if(document.URL.indexOf("#walker") >= 0){
         window.location.replace('https://amzn.to/3M1Q0lV');
     }
 
+else if(document.URL.indexOf("#dogpanda") >= 0){ 
+        window.location.replace('https://amzn.to/3hZxc9r');
+    }
+
 else if(document.URL.indexOf("#Sharkband") >= 0){ 
         window.location.replace('https://amzn.to/3plj0LX');
     }
