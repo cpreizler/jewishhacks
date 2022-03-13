@@ -34,6 +34,14 @@ else if(document.URL.indexOf("#walker") >= 0){
         window.location.replace('https://amzn.to/3M1Q0lV');
     }
 
+else if(document.URL.indexOf("#foodtop") >= 0){ 
+        window.location.replace('https://amzn.to/3I67Y3J');
+    }
+
+else if(document.URL.indexOf("#microsplit") >= 0){ 
+        window.location.replace('https://amzn.to/3I5cHCH');
+    }
+
 else if(document.URL.indexOf("#dogpanda") >= 0){ 
         window.location.replace('https://amzn.to/3hZxc9r');
     }
