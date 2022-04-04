@@ -30,6 +30,10 @@ else if(document.URL.indexOf("#bin") >= 0){
         window.location.replace('https://amzn.to/3sExKWt');
     }
 
+else if(document.URL.indexOf("#marble") >= 0){ 
+        window.location.replace('https://amzn.to/3LIx6Q3');
+    }
+
 else if(document.URL.indexOf("#foodtop") >= 0){ 
         window.location.replace('https://amzn.to/3I67Y3J');
     }
