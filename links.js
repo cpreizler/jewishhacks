@@ -34,11 +34,11 @@ else if(document.URL.indexOf("#shabtop") >= 0){
         window.location.replace('https://amzn.to/3uh17Rq');
     }
 
-else if(document.URL.indexOf("#romper") >= 0){ 
+else if(document.URL.indexOf("#rompera") >= 0){ 
         window.location.replace('https://amzn.to/3v3CCGk');
     }
 
-else if(document.URL.indexOf("#bromper") >= 0){ 
+else if(document.URL.indexOf("#romperb") >= 0){ 
         window.location.replace('https://amzn.to/38ysYEd');
     }
 
