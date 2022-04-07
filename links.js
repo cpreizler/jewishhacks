@@ -38,7 +38,7 @@ else if(document.URL.indexOf("#romper") >= 0){
         window.location.replace('https://amzn.to/3v3CCGk');
     }
 
-else if(document.URL.indexOf("#romperb") >= 0){ 
+else if(document.URL.indexOf("#bromper") >= 0){ 
         window.location.replace('https://amzn.to/38ysYEd');
     }
 
@@ -46,23 +46,23 @@ else if(document.URL.indexOf("#Knotleg") >= 0){
         window.location.replace('https://amzn.to/3KpG7h2');
     }
 
-else if(document.URL.indexOf("#Outfita") >= 0){ 
+else if(document.URL.indexOf("#aOutfit") >= 0){ 
         window.location.replace('https://amzn.to/3Kh4rBq');
     }
 
-else if(document.URL.indexOf("#Outfitb") >= 0){ 
+else if(document.URL.indexOf("#bOutfit") >= 0){ 
         window.location.replace('https://amzn.to/3rbD2t9');
     }
 
-else if(document.URL.indexOf("#Outfitc") >= 0){ 
+else if(document.URL.indexOf("#cOutfit") >= 0){ 
         window.location.replace('https://amzn.to/3LNNDm4');
     }
 
-else if(document.URL.indexOf("#Outfitd") >= 0){ 
+else if(document.URL.indexOf("#dOutfit") >= 0){ 
         window.location.replace('https://amzn.to/37nXeRI');
     }
 
-else if(document.URL.indexOf("#Outfite") >= 0){ 
+else if(document.URL.indexOf("#eOutfit") >= 0){ 
         window.location.replace('https://amzn.to/3DNm5u2');
     }
 
@@ -70,7 +70,7 @@ else if(document.URL.indexOf("#Brownleg") >= 0){
         window.location.replace('https://amzn.to/3NRjMLb');
     }
 
-else if(document.URL.indexOf("#Cardia") >= 0){ 
+else if(document.URL.indexOf("#aCardi") >= 0){ 
         window.location.replace('https://amzn.to/3Jm7uae');
     }
 
@@ -78,7 +78,7 @@ else if(document.URL.indexOf("#Cardib") >= 0){
         window.location.replace('https://amzn.to/3j9COyq');
     }
 
-else if(document.URL.indexOf("#Cardic") >= 0){ 
+else if(document.URL.indexOf("#cCardi") >= 0){ 
         window.location.replace('https://amzn.to/3NPHdEK');
     }
 
