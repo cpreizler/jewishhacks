@@ -70,6 +70,10 @@ else if(document.URL.indexOf("#eOutfit") >= 0){
         window.location.replace('https://amzn.to/3DNm5u2');
     }
 
+else if(document.URL.indexOf("#tommy") >= 0){ 
+        window.location.replace('https://amzn.to/3M4ebQf');
+    }
+
 else if(document.URL.indexOf("#Brownleg") >= 0){ 
         window.location.replace('https://amzn.to/3NRjMLb');
     }
