@@ -34,6 +34,10 @@ else if(document.URL.indexOf("#swan") >= 0){
         window.location.replace('https://amzn.to/3KjnYkU');
     }
 
+else if(document.URL.indexOf("#ezbed") >= 0){ 
+        window.location.replace('https://amzn.to/3xBUiMe');
+    }
+
 else if(document.URL.indexOf("#shabtop") >= 0){ 
         window.location.replace('https://amzn.to/3uh17Rq');
     }
