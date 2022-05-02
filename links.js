@@ -34,6 +34,10 @@ else if(document.URL.indexOf("#foodsave") >= 0){
         window.location.replace('https://amzn.to/3MyOIhZ');
     }
 
+else if(document.URL.indexOf("#tape") >= 0){ 
+        window.location.replace('https://amzn.to/3OTqfWE');
+    }
+
 else if(document.URL.indexOf("#swan") >= 0){ 
         window.location.replace('https://amzn.to/3KjnYkU');
     }
