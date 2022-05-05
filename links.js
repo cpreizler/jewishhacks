@@ -29,6 +29,9 @@ window.onload = function () {
 else if(document.URL.indexOf("#bin") >= 0){ 
         window.location.replace('https://amzn.to/3sExKWt');
     }
+else if(document.URL.indexOf("#bluetop") >= 0){ 
+        window.location.replace('https://amzn.to/3LRSLG8');
+    }
 else if(document.URL.indexOf("#sunscreen") >= 0){ 
         window.location.replace('https://amzn.to/3KMdPwc');
     }
