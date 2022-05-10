@@ -32,6 +32,9 @@ else if(document.URL.indexOf("#bin") >= 0){
 else if(document.URL.indexOf("#bluetop") >= 0){ 
         window.location.replace('https://amzn.to/3LRSLG8');
     }
+else if(document.URL.indexOf("#mascara") >= 0){ 
+        window.location.replace('https://amzn.to/3vYxJ3e');
+    }
 else if(document.URL.indexOf("#motionsen") >= 0){ 
         window.location.replace('https://amzn.to/3slpZ9j');
     }
