@@ -32,6 +32,9 @@ else if(document.URL.indexOf("#bin") >= 0){
 else if(document.URL.indexOf("#neck") >= 0){ 
         window.location.replace('https://amzn.to/37NkWr3');
     }
+else if(document.URL.indexOf("#clearstick") >= 0){ 
+        window.location.replace('https://amzn.to/3MmmAig');
+    }
 else if(document.URL.indexOf("#carsun") >= 0){ 
         window.location.replace('https://amzn.to/3Mmor6P');
     }
