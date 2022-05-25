@@ -29,6 +29,10 @@ window.onload = function () {
 else if(document.URL.indexOf("#bin") >= 0){ 
         window.location.replace('https://amzn.to/3sExKWt');
     }
+
+else if(document.URL.indexOf("#root") >= 0){ 
+        window.location.replace('https://amzn.to/3PFphgZ');
+    }
 else if(document.URL.indexOf("#neck") >= 0){ 
         window.location.replace('https://amzn.to/37NkWr3');
     }
