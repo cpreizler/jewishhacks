@@ -30,6 +30,17 @@ else if(document.URL.indexOf("#bin") >= 0){
         window.location.replace('https://amzn.to/3sExKWt');
     }
 
+else if(document.URL.indexOf("#floralromp") >= 0){ 
+        window.location.replace('https://amzn.to/39Yiizx');
+    }
+
+else if(document.URL.indexOf("#denimromp") >= 0){ 
+        window.location.replace('https://amzn.to/3wQcVey');
+    }
+
+else if(document.URL.indexOf("#bin") >= 0){ 
+        window.location.replace('https://amzn.to/3sExKWt');
+    }
 else if(document.URL.indexOf("#root") >= 0){ 
         window.location.replace('https://amzn.to/3PFphgZ');
     }
