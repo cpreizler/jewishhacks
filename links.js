@@ -34,6 +34,10 @@ else if(document.URL.indexOf("#snack") >= 0){
         window.location.replace('https://amzn.to/3a9KMGE');
     }
 
+else if(document.URL.indexOf("#pj") >= 0){ 
+        window.location.replace('https://amzn.to/3PJp50p');
+    }
+
 else if(document.URL.indexOf("#floralromp") >= 0){ 
         window.location.replace('https://amzn.to/39Yiizx');
     }
