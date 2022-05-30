@@ -33,7 +33,9 @@ else if(document.URL.indexOf("#bin") >= 0){
 else if(document.URL.indexOf("#snack") >= 0){ 
         window.location.replace('https://amzn.to/3a9KMGE');
     }
-
+else if(document.URL.indexOf("#wool") >= 0){ 
+        window.location.replace('https://amzn.to/3wYzjlV');
+    }
 else if(document.URL.indexOf("#pj") >= 0){ 
         window.location.replace('https://amzn.to/3PJp50p');
     }
