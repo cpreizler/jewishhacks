@@ -36,6 +36,12 @@ else if(document.URL.indexOf("#snack") >= 0){
 else if(document.URL.indexOf("#wool") >= 0){ 
         window.location.replace('https://amzn.to/3wYzjlV');
     }
+else if(document.URL.indexOf("#solar") >= 0){ 
+        window.location.replace('https://amzn.to/3PVyhyu');
+    }
+else if(document.URL.indexOf("#parch") >= 0){ 
+        window.location.replace('https://amzn.to/38YgOow');
+    }
 else if(document.URL.indexOf("#pj") >= 0){ 
         window.location.replace('https://amzn.to/3PJp50p');
     }
