@@ -33,6 +33,11 @@ else if(document.URL.indexOf("#bin") >= 0){
 else if(document.URL.indexOf("#snack") >= 0){ 
         window.location.replace('https://amzn.to/3a9KMGE');
     }
+
+else if(document.URL.indexOf("#stairbask") >= 0){ 
+        window.location.replace('https://amzn.to/3NM3oeN');
+    }
+
 else if(document.URL.indexOf("#wool") >= 0){ 
         window.location.replace('https://amzn.to/3wYzjlV');
     }
