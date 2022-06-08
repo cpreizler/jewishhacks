@@ -29,7 +29,9 @@ window.onload = function () {
 else if(document.URL.indexOf("#bin") >= 0){ 
         window.location.replace('https://amzn.to/3sExKWt');
     }
-
+else if(document.URL.indexOf("#fan") >= 0){ 
+        window.location.replace('https://amzn.to/3tpY0Wo');
+    }
 else if(document.URL.indexOf("#snack") >= 0){ 
         window.location.replace('https://amzn.to/3a9KMGE');
     }
