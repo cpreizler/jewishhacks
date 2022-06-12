@@ -32,6 +32,9 @@ else if(document.URL.indexOf("#bin") >= 0){
 else if(document.URL.indexOf("#fan") >= 0){ 
         window.location.replace('https://amzn.to/3tpY0Wo');
     }
+else if(document.URL.indexOf("#bubble") >= 0){ 
+        window.location.replace('https://amzn.to/3Hdiyam');
+    }
 else if(document.URL.indexOf("#snack") >= 0){ 
         window.location.replace('https://amzn.to/3a9KMGE');
     }
