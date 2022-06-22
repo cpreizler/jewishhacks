@@ -32,6 +32,9 @@ else if(document.URL.indexOf("#bin") >= 0){
 else if(document.URL.indexOf("#fan") >= 0){ 
         window.location.replace('https://amzn.to/3tpY0Wo');
     }
+else if(document.URL.indexOf("#heels") >= 0){ 
+        window.location.replace('https://amzn.to/3bl0grN');
+    }
 else if(document.URL.indexOf("#measure") >= 0){ 
         window.location.replace('https://amzn.to/3QpPuRb');
     }
